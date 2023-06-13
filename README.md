@@ -1,3 +1,5 @@
+👋 Hi, I’m Thirawat
+<!---
 ```diff
 
 class AboutMe {
@@ -9,6 +11,7 @@ class AboutMe {
 }
 
 ```
+--->
 
 <!---
 thirawat-r/thirawat-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
